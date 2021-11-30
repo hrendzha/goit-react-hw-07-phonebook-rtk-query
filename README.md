@@ -1,1 +1,1 @@
-# hrendzha-goit-react-hw-07-phonebook-rtk-query
+# goit-react-hw-07-phonebook-rtk-query
